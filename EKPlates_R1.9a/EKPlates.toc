@@ -1,0 +1,10 @@
+﻿## Interface: 80000
+## Title: |cff00ffffEK|rPlates
+## Version: R1.9a
+## Author: EK (Linodas@Illidan-US)
+## Notes: Nameplates. Credits to Paopao and Dawn.
+
+## X-Credits: Paopao, Dawn, Siweia, Rubgrsch
+
+Config.lua
+EKPlates.lua
